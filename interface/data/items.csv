@@ -1,0 +1,51 @@
+label,brand,amount,units,category_name,description
+butter,Anchor,500,g,dairy,
+butter,generic,500,g,dairy,
+rice crackers,Fantastic,100,g,crackers,Sweet Thai Chilli
+rice crackers,Peckish,100,g,crackers,Tangy BBQ
+rice crackers,generic,100,g,crackers,
+chocolate chip biscuits,Hudsons,200,g,biscuits,Cookie Bear
+chocolate chip biscuits,generic,200,g,biscuits,
+chocolate afghan biscuits,Griffins,200,g,biscuits,
+chocolate afghan biscuits,generic,200,g,biscuits,
+chocolate block,Cadbury,220,g,confectionery,
+chocolate block,generic,220,g,confectionery,
+green tea,Chanui,85,g,beverages,50 bags
+green tea,generic,,,beverages,
+green tea with jasmine,Chanui,85,g,beverages,50 bags
+green tea with jasmine,generic,,,beverages,
+peppermint tea,Red Seal,86,g,beverages,50 bags
+peppermint tea,generic,,,beverages,
+chai tea - spice,Arkadia,240,g,beverages,
+marmite,Sanitarium,500,g,spreads,
+honey - bush honey,Airborne,500,g,spreads,
+honey,generic,500,g,spreads,
+rice,Kings Choice,1,kg,grains,Highland Basmati
+rice,generic,1,kg,grains,
+kidney beans,Craigs,425,g,tinned vegetables,Red kidney beans in brine
+kidney beans,generic,,,tinned vegetables,
+tomatoes,Benedicts,400,g,tinned vegetables,Chopped Italian
+tomatoes,generic,400,g,tinned vegetables,
+coconut milk,Dole,200,ml,baking,Lite
+coconut milk,generic,200,ml,baking,
+spaghetti,Diamond,500,g,pasta,Durum wheat
+spaghetti,generic,500,g,pasta,
+baking soda,Hansells,400,g,baking,
+baking soda,generic,400,g,baking,
+milk - trim,Home Brand,2,L,dairy,
+milk - trim,generic,2,L,dairy,
+margarine,Meadowlea,500,g,dairy,Original
+margarine,generic,500,g,dairy,
+bread - loaf,generic,750,g,breads,Dutch wholemeal grain
+bread - loaf,Freyas,,,breads,
+dishwashing liquid,Sunlight,750,ml,cleaning,Apple & baking soda
+dishwashing liquid,generic,,,cleaning,
+mixed vegetables - frozen,Watties,1,kg,frozen vegetables,
+mixed vegetables - frozen,generic,1,kg,frozen vegetables,
+pork chops,generic,1,kg,meat,
+cling wrap,Multix,120,ml,kitchen,
+cling wrap,generic,,,kitchen,
+ground chillies,Masterfoods,27,g,spices & herbs,Hot
+ground chillies,generic,,,spices & herbs,
+shampoo,Clear,350,ml,bathroom,Damage & colour repair
+shampoo,generic,,,bathroom,

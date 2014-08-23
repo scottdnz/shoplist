@@ -1,0 +1,36 @@
+<html>
+  <head>
+    
+    <script src="/static/js/jquery.js"></script>
+  </head>
+  <body>
+    
+    <h1>Ingredients</h1>
+    
+    <table>
+      <tr>
+        <th>Label</th>
+        <th>Brand</th>
+        <th>Amount</th>
+        <th>Units</th>
+        <th>Category ID</th>
+        <th>Description</th>
+        <th>ID</th>
+       </tr>
+        
+    {% for item in items %}
+      <tr>
+        <td>{{ item.label }}</td>
+        <td>{{ item.brand }}</td>
+        <td>{{ item.amount }}</td>
+        <td>{{ item.units }}</td>
+        <td>{{ item.category_id }}</td>
+        <td>{{ item.description }}</td>
+        <td>{{ item.id }}</td>
+      </tr>
+    {% endfor %}
+    
+    </table>
+    
+  </body>
+</html>
